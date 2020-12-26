@@ -1,0 +1,78 @@
+@model IEnumerable<Cliente>
+
+    <header>
+        <ul class="nav bg-light p-3 ms-auto">
+            <li class="nav-item">
+                <a class="nav-link active btn bg-primary text-light" aria-current="page" href="Clientes/Add">Novo Cliente</a>
+            </li>
+        </ul>
+    </header>
+
+    <section class="container-fluid p-3">
+        <div class="row">
+            <div class="col-12">
+
+                <table class="table">
+                    <thead class="table-primary">
+                        <tr>
+                            <th>#</th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Nome)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.SobreNome)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.CPF)
+                            </th>
+
+                            <th>
+                                @Html.DisplayNameFor(model => model.Telefone1)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Telefone2)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Email)
+                            </th>
+                            <th>Ações</th>
+                        </tr>
+                    </thead>
+                    <tbody class="table-light">
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(m => item.Id)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(m => item.Nome)
+                                </td>
+                                <th>
+                                    @Html.DisplayFor(m => item.SobreNome)
+                                </th>
+                                <th>
+                                    @Html.DisplayFor(m => item.CPF)
+                                </th>
+
+                                <th>
+                                    @Html.DisplayFor(m => item.Telefone1)
+                                </th>
+                                <th>
+                                    @Html.DisplayFor(m => item.Telefone2)
+                                </th>
+                                <th>
+                                    @Html.DisplayFor(m => item.Email)
+                                </th>
+                                <td>
+                                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a>  |
+                                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+    </section>

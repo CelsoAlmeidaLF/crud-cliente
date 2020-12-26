@@ -1,0 +1,15 @@
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Infrastructure\bin\Debug\net5.0\Core.dll
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Infrastructure\bin\Debug\net5.0\Core.pdb
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Infrastructure\obj\Debug\net5.0\Infrastructure.csprojAssemblyReference.cache
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb

@@ -1,0 +1,14 @@
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Application\bin\Debug\netcoreapp3.1\Core.dll
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Application\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Application\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Application\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Application\obj\Debug\netcoreapp3.1\Application.pdb

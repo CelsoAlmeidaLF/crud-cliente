@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Data\" />
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+		<PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.1" />
+		<PackageReference Include="RestSharp" Version="106.11.7" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+		<PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.6.3" />
+	</ItemGroup>
+	
+  <ItemGroup>
+    <ProjectReference Include="..\Src\Application\Application.csproj" />
+    <ProjectReference Include="..\Src\Core\Core.csproj" />
+    <ProjectReference Include="..\Src\Infrastructure\Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
