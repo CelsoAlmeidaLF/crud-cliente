@@ -9129,22 +9129,25 @@
   },
   "packageFolders": {
     "C:\\Users\\Celso\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\Projects\\Basic\\Celso_Almeida_Leite_Fillho\\Web\\Web.csproj",
+      "projectUniqueName": "D:\\Development\\gitHub\\crud-cliente\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "D:\\Development\\Projects\\Basic\\Celso_Almeida_Leite_Fillho\\Web\\Web.csproj",
+      "projectPath": "D:\\Development\\gitHub\\crud-cliente\\Web\\Web.csproj",
       "packagesPath": "C:\\Users\\Celso\\.nuget\\packages\\",
-      "outputPath": "D:\\Development\\Projects\\Basic\\Celso_Almeida_Leite_Fillho\\Web\\obj\\",
+      "outputPath": "D:\\Development\\gitHub\\crud-cliente\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
         "C:\\Users\\Celso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -9159,14 +9162,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Development\\Projects\\Basic\\Celso_Almeida_Leite_Fillho\\Src\\Application\\Application.csproj": {
-              "projectPath": "D:\\Development\\Projects\\Basic\\Celso_Almeida_Leite_Fillho\\Src\\Application\\Application.csproj"
+            "D:\\Development\\gitHub\\crud-cliente\\Src\\Application\\Application.csproj": {
+              "projectPath": "D:\\Development\\gitHub\\crud-cliente\\Src\\Application\\Application.csproj"
             },
-            "D:\\Development\\Projects\\Basic\\Celso_Almeida_Leite_Fillho\\Src\\Core\\Core.csproj": {
-              "projectPath": "D:\\Development\\Projects\\Basic\\Celso_Almeida_Leite_Fillho\\Src\\Core\\Core.csproj"
+            "D:\\Development\\gitHub\\crud-cliente\\Src\\Core\\Core.csproj": {
+              "projectPath": "D:\\Development\\gitHub\\crud-cliente\\Src\\Core\\Core.csproj"
             },
-            "D:\\Development\\Projects\\Basic\\Celso_Almeida_Leite_Fillho\\Src\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\Development\\Projects\\Basic\\Celso_Almeida_Leite_Fillho\\Src\\Infrastructure\\Infrastructure.csproj"
+            "D:\\Development\\gitHub\\crud-cliente\\Src\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\Development\\gitHub\\crud-cliente\\Src\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -9216,7 +9219,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

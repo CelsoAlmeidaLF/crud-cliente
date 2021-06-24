@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z9nnwFk0lNADhUE1TairQC1uniP1dT0Mg/TMcfC0yaBMLYnAt2W3n09LGeZuxUIvQpVmEpEp8BbNQA2Xc3OQ/w==",
+  "dgSpecHash": "gY6/NrVHoKOLKlbRfp2P8PLrKnE3emdH9hrFRdasSMeGQnCkhkT/xZBuj8itP7RcaKm2O68O3vEpjYQUH5Y1VA==",
   "success": true,
-  "projectFilePath": "D:\\Development\\Projects\\Basic\\Celso_Almeida_Leite_Fillho\\Src\\Application\\Application.csproj",
+  "projectFilePath": "D:\\Development\\gitHub\\crud-cliente\\Src\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Celso\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Celso\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

@@ -7,3 +7,11 @@ D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Core\obj\Debug\netc
 D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
 D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Core\obj\Debug\netcoreapp3.1\Core.dll
 D:\Development\Projects\Basic\Celso_Almeida_Leite_Fillho\Src\Core\obj\Debug\netcoreapp3.1\Core.pdb
+D:\Development\gitHub\crud-cliente\Src\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+D:\Development\gitHub\crud-cliente\Src\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\Development\gitHub\crud-cliente\Src\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Development\gitHub\crud-cliente\Src\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\Development\gitHub\crud-cliente\Src\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\Development\gitHub\crud-cliente\Src\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+D:\Development\gitHub\crud-cliente\Src\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\Development\gitHub\crud-cliente\Src\Core\obj\Debug\netcoreapp3.1\Core.pdb

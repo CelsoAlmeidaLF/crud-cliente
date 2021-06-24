@@ -471,22 +471,25 @@
   },
   "packageFolders": {
     "C:\\Users\\Celso\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\Projects\\Basic\\Celso_Almeida_Leite_Fillho\\Src\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "D:\\Development\\gitHub\\crud-cliente\\Src\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\Development\\Projects\\Basic\\Celso_Almeida_Leite_Fillho\\Src\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "D:\\Development\\gitHub\\crud-cliente\\Src\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Celso\\.nuget\\packages\\",
-      "outputPath": "D:\\Development\\Projects\\Basic\\Celso_Almeida_Leite_Fillho\\Src\\Infrastructure\\obj\\",
+      "outputPath": "D:\\Development\\gitHub\\crud-cliente\\Src\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
         "C:\\Users\\Celso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -501,8 +504,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Development\\Projects\\Basic\\Celso_Almeida_Leite_Fillho\\Src\\Core\\Core.csproj": {
-              "projectPath": "D:\\Development\\Projects\\Basic\\Celso_Almeida_Leite_Fillho\\Src\\Core\\Core.csproj"
+            "D:\\Development\\gitHub\\crud-cliente\\Src\\Core\\Core.csproj": {
+              "projectPath": "D:\\Development\\gitHub\\crud-cliente\\Src\\Core\\Core.csproj"
             }
           }
         }
@@ -537,7 +540,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

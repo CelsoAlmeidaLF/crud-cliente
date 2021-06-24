@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+sYJ8a5phXGO4F5hrP/mmT+fYtGnrrkevtLrk+7KZUjrELoJPGQViPMFbt80ICuHWui7XGS02fxz3kex8QpVng==",
+  "dgSpecHash": "XKs2Boe9N7gGGWiMWg5/HvxpDlOYvIG295h9TQg0STbIjRNy8yWeSsinYfZNhBYquHeWLsVHIuKaxAPyMSyZlA==",
   "success": true,
-  "projectFilePath": "D:\\Development\\Projects\\Basic\\Celso_Almeida_Leite_Fillho\\Src\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\Development\\gitHub\\crud-cliente\\Src\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Celso\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Celso\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
